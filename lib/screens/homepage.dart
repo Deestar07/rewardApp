@@ -58,7 +58,7 @@ class _HomePageState extends State<HomePage> {
 
       SizedBox(
         width:150 ,
-        height: 80,
+        height: 110,
         child: Padding(
           padding: EdgeInsets.only(top:20),
           child: ElevatedButton(
@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
 
           SizedBox(
             width:150 ,
-            height: 80,
+            height: 110,
             child: Padding(
               padding: const EdgeInsets.only(top:20),
               child: ElevatedButton(
